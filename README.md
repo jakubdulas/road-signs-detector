@@ -15,7 +15,7 @@ pip install -r requirements.txt
 After installing the required libraries, you can download the project code from the GitHub repository:
 
 ```
-git clone https://github.com/SKN-main/road_sign_detector.git
+git clone https://github.com/jakubdulas/road-signs-detector.git
 ```
 
 ## Usage
